@@ -27,76 +27,63 @@
         <img style="
             height: 25px;
         " 
-        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-        "
-        >
+        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </span>
     &emsp;
     <span>
         <img style="
             height: 25px;
         " 
-        src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
-        >
+        src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
     </span>
     &emsp;
     <span>
         <img style="
             height: 25px;
         " 
-        src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"
-        >
+        src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white">
     </span>
     &emsp;
     <span>
         <img style="
             height: 25px;
         " 
-        src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"
-        >
+        src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white">
     </span>
     &emsp;
     <span>
         <img style="
             height: 25px;
         " 
-        src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"
-        >
+        src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
     </span>
     &emsp;
     <span>
         <img style="
             height: 25px;
         " 
-        src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"
-        >
+        src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss">
     </span>
     &emsp;
     <span>
         <img style="
             height: 25px;
         " 
-        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-        "
-        >
+        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     </span>
     &emsp;
     <span>
         <img style="
             height: 25px;
         " 
-        src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-        "
-        >
+        src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
     </span>
     &emsp;
     <span>
         <img style="
             height: 25px;
         " 
-        src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-        "
-        >
+        src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     </span>
     &emsp;
 </p>
